@@ -51,6 +51,9 @@
 <br/>
 
 ## 🎧 Spotify Playing: 
+[![Spotify](https://novatorem-one-wheat.vercel.app
+/api/spotify)](https://open.spotify.com/user/31owgythkkzr2fcoggbd7rfrk3tq)
+<br>
 ![Aditi's Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31owgythkkzr2fcoggbd7rfrk3tq&unique={true|1|on|yes})
 
 ## 👯 Connect with me:
