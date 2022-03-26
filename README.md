@@ -50,6 +50,9 @@
 <br/>
 <br/>
 
+## Spotify Playing 🎧
+![Aditi's Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31owgythkkzr2fcoggbd7rfrk3tq)
+
 ## Connect with me:
 <p align="left">
 
