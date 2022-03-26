@@ -35,7 +35,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Stats:
 
   <br/>
     <a href="https://github.com/aditiitomar/github-readme-stats"><img alt="Aditi Tomar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aditiitomar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -50,17 +50,11 @@
 <br/>
 <br/>
 
-## Spotify Playing 🎧
+## 🎧 Spotify Playing: 
 ![Aditi's Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31owgythkkzr2fcoggbd7rfrk3tq)
 
-## Connect with me:
+## 👯 Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/aditi-tomar-969754206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=aditiitomar">
-</a>
-<a href="https://github.com/aditiitomar?tab=followers"><img src="https://img.shields.io/github/followers/aditiitomar?label=Followers&style=social" alt="GitHub Badge"></a>
