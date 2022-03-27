@@ -51,12 +51,12 @@
 <br/>
 
 ## 🎧 Spotify Playing: 
-[![Spotify](https://novatorem-one-wheat.vercel.app/api/spotify)](https://open.spotify.com/user/31owgythkkzr2fcoggbd7rfrk3tq)
-<br>
+<!-- [![Spotify](https://novatorem-one-wheat.vercel.app/api/spotify)](https://open.spotify.com/user/31owgythkkzr2fcoggbd7rfrk3tq)
+<br> -->
 ![Aditi's Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31owgythkkzr2fcoggbd7rfrk3tq&unique={true|1|on|yes})
 
 ## 👯 Connect with me:
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/aditi-tomar-969754206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://open.spotify.com/user/31owgythkkzr2fcoggbd7rfrk3tq"><img src="https://img.icons8.com/fluent/48/000000/spotify.png"/></a>
 </p>
